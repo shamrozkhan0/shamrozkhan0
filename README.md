@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Different Website Clones**
 
-- 🌱 I’m currently learning **DSA with JAVA**
+- 🌱 
 
 - 👯 I’m looking to collaborate on **Any remote**
 
