@@ -1,22 +1,39 @@
-<h1 align="center">Hi 👋, I'm Shamroz Khan</h1>
+# 👋 Hi, I'm Shamroz Khan!
 
-<h3 align="center">I am a passionate developer from Pakistan. I am motivated by programming & SAAS and have an hunger of continuous learning.</h3>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/shamrozkhan-developer)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/youngs01)
 
-- 🔭 I’m currently working on **Different Website Clones**
+## 👨‍💻 Summary
+I'm a **Full Stack Developer** with 6 months of experience in building complex and responsive UIs for web applications. I have proficiency in both frontend and backend development, and I'm currently diving into **WebSocket** and **Digital Rights Management (DRM)** technologies. I'm passionate about leveraging my skills in dynamic environments that encourage innovation and growth.
 
-- 🌱 
+## 💻 Languages & Frameworks
+- **Languages**: HTML, CSS, JavaScript, Java
+- **Frameworks/Libraries**: Bootstrap, React.js, Spring Boot, Spring Security
+- **Database**: MySQL
 
-- 👯 I’m looking to collaborate on **Any remote**
+## 🛠️ Tools & Platforms
+- **Version Control**: Git, GitHub
+- **Code Editors**: Visual Studio Code, IntelliJ IDEA, MySQL Workbench
 
-- 💬 Ask me about **SAAS,Development**
+## 📊 Development Practices
+- **Responsive Design**: Creating layouts that work seamlessly across various devices and screen sizes.
+- **Version Control**: Utilizing Git and GitHub for tracking changes in code.
+- **Testing**: Conducting thorough tests to ensure reliability and eliminate bugs.
 
-- 📫 How to reach me **shamrozkhan0319@gmail.com**
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/li" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="li" height="30" width="40" /></a>
-</p>
+## 🌱 Tech Hobby
+- **Open Source Contribution**: I love contributing to projects on GitHub to enhance features, fix bugs, and collaborate with the developer community.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 🚀 Experience
+### Full Stack Development
+Self-taught in building complete web applications from frontend to backend, leveraging various technologies for a seamless user experience.
 
+- **Frontend Development**: Developed responsive and user-friendly interfaces using HTML, CSS, JavaScript, React.js, and Bootstrap.
+- **Backend Development**: Created server-side applications using Java and Spring Boot, integrating with MySQL for data storage and management.
+
+## 📚 Currently Learning
+- **WebSocket**: Exploring real-time communication for web applications.
+- **DRM**: Understanding content protection mechanisms for media applications.
+
+---
+
+Feel free to reach out via [LinkedIn](https://linkedin.com/in/shamrozkhan-developer) or check out my projects on [GitHub](https://github.com/youngs01)!
