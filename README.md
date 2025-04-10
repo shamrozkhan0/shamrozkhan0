@@ -1,11 +1,7 @@
-# 👋 Hi, I'm Shamroz Khan!
-### 🔮 Future SAAS Developer
+# **👋 Hi, I'm Shamroz Khan!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/shamrozkhan-developer)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/youngs01)
-
-## 👨‍💻 Summary
-I'm a **Full Stack Developer** with 6 months of experience in building complex and responsive UIs for web applications. I have proficiency in both frontend and backend development, and I'm currently diving into **WebSocket** and **Digital Rights Management (DRM)** technologies. I'm passionate about leveraging my skills in dynamic environments that encourage innovation and growth.
 
 ## 💻 Languages & Frameworks
 - **Languages**: HTML, CSS, JavaScript, Java
@@ -22,7 +18,8 @@ I'm a **Full Stack Developer** with 6 months of experience in building complex a
 - **Testing**: Conducting thorough tests to ensure reliability and eliminate bugs.
 
 ## 🌱 Tech Hobby
-- **Open Source Contribution**: I love contributing to projects on GitHub to enhance features, fix bugs, and collaborate with the developer community.
+- **Open Source Contribution**
+- **SaaS development**
 
 ## 🚀 Experience
 ### Full Stack Development
