@@ -5,7 +5,7 @@
 
 ## 💻 Languages & Frameworks
 - **Languages**: HTML, CSS, JavaScript, Java
-- **Frameworks/Libraries**: Bootstrap, React.js, Spring Boot, Spring Security
+- **Frameworks/Libraries**: Bootstrap, JQuery, Ajax, React.js, Spring Boot, Spring Security
 - **Database**: MySQL
 
 ## 🛠️ Tools & Platforms
