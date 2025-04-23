@@ -1,37 +1,34 @@
-# **👋 Hi, I'm Shamroz Khan!**
+<h1 style="color:aqua; font-size:50px;">
+  <b>Shamroz Khan - 
+    <span style="background: linear-gradient(to right, #1AC2A4, #F7C705); -webkit-background-clip: text; color: transparent;">
+      Full-Stack Java Developer
+    </span>
+  </b>
+</h1>
+
+### I am expert in building <span style="color:#F4C708;">Web-Application</span> and <span style="color:#F4C708;">Rest-APIs</span> in both <span style="color:#F4C708;">Mongolithic</span> and <span style="color:#F4C708;">Microservice</span> architecture with modern technologie like <span style="color:#F4C708;">React</span>, <span style="color:#F4C708;">Spring Boot</span>, <span style="color:#F4C708;">MongoDB</span>.
+
+#
+
+### Frontend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+
+### Backend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="SpringBoot"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PosrgresQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+
+
+
+#
+#
+#
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/shamrozkhan-developer)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/youngs01)
-
-## 💻 Languages & Frameworks
-- **Languages**: HTML, CSS, JavaScript, Java
-- **Frameworks/Libraries**: Bootstrap, JQuery, Ajax, React.js, Spring Boot, Spring Security
-- **Database**: MySQL
-
-## 🛠️ Tools & Platforms
-- **Version Control**: Git, GitHub
-- **Code Editors**: Visual Studio Code, IntelliJ IDEA, MySQL Workbench
-
-## 📊 Development Practices
-- **Responsive Design**: Creating layouts that work seamlessly across various devices and screen sizes.
-- **Version Control**: Utilizing Git and GitHub for tracking changes in code.
-- **Testing**: Conducting thorough tests to ensure reliability and eliminate bugs.
-
-## 🌱 Tech Hobby
-- **Open Source Contribution**
-- **SaaS development**
-
-## 🚀 Experience
-### Full Stack Development
-Self-taught in building complete web applications from frontend to backend, leveraging various technologies for a seamless user experience.
-
-- **Frontend Development**: Developed responsive and user-friendly interfaces using HTML, CSS, JavaScript, React.js, and Bootstrap.
-- **Backend Development**: Created server-side applications using Java and Spring Boot, integrating with MySQL for data storage and management.
-
-## 📚 Currently Learning
-- **WebSocket**: Exploring real-time communication for web applications.
-- **DRM**: Understanding content protection mechanisms for media applications.
-
----
-
-Feel free to reach out via [LinkedIn](https://linkedin.com/in/shamrozkhan-developer) or check out my projects on [GitHub](https://github.com/youngs01)!
