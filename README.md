@@ -30,5 +30,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/shamrozkhan0)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/shamrozkhan0)
-[![Shifters]](https://shifters.dev/shamrozkhan)
+[Shifters](https://shifters.dev/shamrozkhan)
 
