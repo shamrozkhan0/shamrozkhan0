@@ -7,7 +7,7 @@ Engineered SaaS applications that solve real-world problems, built to handle hig
 - **Frontend** – HTML, CSS, JavaScript, React, Thymeleaf, Bootstrap, Tailwind, Material UI.
 - **Backend** – Java, Spring Boot, Node.js, Express, Python.
 - **Database** – MySQL, PostgreSQL, MongoDB.
-- **Tools** – Git, GitHub, Docker, VS Code, IntelliJ IDEA.
+- **Tools** – Git, GitHub, Docker, VS Code, IntelliJ IDEA, Postman, Figma.
 #
 
 ### Activity:
