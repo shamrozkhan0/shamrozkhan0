@@ -1,4 +1,4 @@
-<img src="https://github.com/shamrozkhan0/shamrozkhan0/blob/main/Shamrozkhan2.png" alt="Description" />
+<img src="https://github.com/shamrozkhan0/shamrozkhan0/blob/main/banner2.png" alt="Description" />
 
 ### Shamroz Khan - Software Engineer (Aspiring AI-Engineer)
 
@@ -31,5 +31,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/shamrozkhan0)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/shamrozkhan0)
+
 
 
