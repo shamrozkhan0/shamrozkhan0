@@ -29,8 +29,10 @@
 2026-2:
 - Have completed learning pandas and built a [project](https://github.com/shamrozkhan0/pandas_data_cleaner) that cleans the data and makes it ready for LLM
 - Moving to Scikit-Learn
+2026-5: Developed an AI-powered CSV analyzer
+2026-5: Learned Matplotlib
+
 ---
-2026-5: Developed an AI-powered CSV analyzer  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/shamrozkhan0)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/shamrozkhan0)
